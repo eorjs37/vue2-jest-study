@@ -2,6 +2,8 @@
 
 ## Node Version
 > v16.19.1
+## Npm version
+> 8.19.3
 
 ## Jest 설치
 
