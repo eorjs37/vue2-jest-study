@@ -20,3 +20,7 @@ npm install @babel/preset-env --save-dev
 npm install babel-core@^7.0.0-bridge.0 --save-dev
 ```
 
+### vue jest 명령어 사용할 수 있도록 추가
+```
+vue add unit-jest
+```
